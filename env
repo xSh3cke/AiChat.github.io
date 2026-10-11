@@ -1,0 +1,3 @@
+NVIDIA_API_KEY=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
+MODEL=deepseek-ai/deepseek-v4.1-flash
+PORT=3000
